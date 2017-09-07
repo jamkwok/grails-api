@@ -23,4 +23,4 @@ grails dev run-app
 
 Add routing to /api/city @ grails-app/controllers/api/UeiMappings.groovy
 
-CHeck postman
+CHeck postman http://localhost:8080/api/city
