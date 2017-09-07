@@ -9,7 +9,7 @@ cd RESTService
 grails create-domain-class api.City
 ```
 
-Add Data into the database grails-app/init/api/BootStrap.groovy
+Add Data into the database (Basically initialises Data) grails-app/init/api/BootStrap.groovy
 
 ```
 grails create-controller api.CityController
@@ -20,3 +20,7 @@ Edit controller grails-app/controllers/api/CityController.groovy
 ```
 grails dev run-app
 ```
+
+Add routing to /api/city @ grails-app/controllers/api/UeiMappings.groovy
+
+CHeck postman
