@@ -1,7 +1,7 @@
 # Grails Restful API
->http://guides.grails.org/creating-your-first-grails-app/guide/index.html
-Grails Version: 3.2.3
-JVM Version: 1.8.0_144
+> https://jolorenz.wordpress.com/2014/02/28/create-a-restservice-api-with-grails-2-3-x-in-15-minutes/
+ Grails Version: 3.2.3
+ JVM Version: 1.8.0_144
 
 ```
 grails create-app api
