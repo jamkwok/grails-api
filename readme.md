@@ -8,11 +8,15 @@ grails create-app api
 cd RESTService
 grails create-domain-class api.City
 ```
+
 Add Data into the database grails-app/init/api/BootStrap.groovy
+
 ```
 grails create-controller api.CityController
 ```
+
 Edit controller grails-app/controllers/api/CityController.groovy
+
 ```
 grails dev run-app
 ```
