@@ -5,7 +5,7 @@ JVM Version: 1.8.0_144
 
 ```
 grails create-app api
-cd RESTService
+cd api
 grails create-domain-class api.City
 ```
 
